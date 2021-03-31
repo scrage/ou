@@ -1,0 +1,92 @@
+{
+  "main": {
+    "id": "f6aaa70f5f8bc19e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4656d893a9f185a0",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "The Nature of Postgraduate Study/The Nature of Postgraduate Study.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a14c6d99c676ae8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea2f6986c5f246e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5d0d4fb33f2a98e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a2339e48fe107e1a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "436c93dbae400aa6",
+    "type": "split",
+    "children": [
+      {
+        "id": "72fc8a780425c407",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8704ecba664d817",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The Nature of Postgraduate Study/The Nature of Postgraduate Study.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "The Nature of Postgraduate Study.md",
+    "Untitled.md"
+  ]
+}
