@@ -4,7 +4,7 @@ Notes on the freely available course [Succeeding in postgraduate study](https://
 
 # Reflective thinking, reflective learning and academic writing
 ## Reflection
-The _process_ of reflectiontypically involve:
+The _process_ of reflection typically involve:
  - thinking with a purpose
  - introspection (looking within oneself, examining one's conscious thoughts and feelings)
  - questioning and probing
