@@ -1,3 +1,7 @@
+Notes on the freely available course [Succeeding in postgraduate study](https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=51385&section=__introduction).
+
+---
+
 # Reflective thinking, reflective learning and academic writing
 ## Reflection
 The _process_ of reflectiontypically involve:
