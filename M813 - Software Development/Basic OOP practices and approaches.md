@@ -6,7 +6,7 @@ First of all, there is an argument about programming paradigms in general, which
 Every programming paradigm, one way or another, essentially try to limit the programmer who adpts it, and that self-imposed limitation helps the programmer to steer away from potential mistakes.
 And they tend to guard us from more mistakes than that of the freedom we have to give up for them.
 
-**Structural programming** ensures a straight-forward execution flow by constraining the flow of transfer of control. (**Esgar Dijkstra** considered GOTO harmful. --  ***Structured Programming, 1968***)
+**Structural programming** ensures a straight-forward execution flow by constraining the flow of transfer of control. (**Edsger Dijkstra** considered GOTO harmful. --  ***Structured Programming, 1968***)
 
 **Functional programming** constrains assignment by writing code with no side-effects (relying on *immutability*): Each function translates its inputs into a new output, without changing those inputs in any way at all. (This is also referred to as *pure functioning programming*.)
 
