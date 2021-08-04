@@ -38,3 +38,28 @@ In fact, the 1972 version of SmallTalk didn't even support inheritance at all.
 ## Visibility
 **Encapsulation** is the discipline of organising an object’s properties and operations into private and public areas, depending on whether other objects should be able to access them. By defining what parts of a class in code should be private, public, or other, we declare their **visibility**.
 Some languages, like Java, lets us control access to classes, methods, and operations via **access modifiers**.
+
+## Classes and interfaces
+Most object-oriented languages provide constructs to define classes and interfaces. Make sure to make use of abstract classes for implementing generalisation and hierarchies, and represent abilities or contracts as interfaces.
+
+## Generalisation and realisation
+Generalisation means inheritance between classes, realisation means implementing interfaces.
+
+## Attributes
+Attributes are generally realised as variables within a class declaration, and different languages can have it slightly different ways (e.g Java offers fields for private attributes and getter/setter methods for public access, while C# - on top of field variables - has properties, which can constrain visibility any way we want to).
+
+From a certain perspective variables can be of two types:
+- **instance variables**, corresponding to object (instance) attributes
+- **class variables**, corresponding to class attributes (having them shared among all the class instances, or existing as a static way).
+
+## Operations
+In oo languages operations are implemented as **methods**. Similarly to attributes, methods can be either instance or class methods (in the latter case, they are sometimes also referred to as functions).
+- **Instance methods** correspond to object operations and are invoked on objects.
+- **Class methods** correspond to class operations and are invoked on the class itself.
+
+## Constructors
+Constructors are a special category of methods, responsible for creating new class instances (given that the class is neither abstract nor static). Usually an oo language has a default parameterless constructor for every instantiable class.
+
+## Encapsulation via getters, setters and properties (Java and C#)
+Control data visibility within classes by using getters and setters in Java, and properties in C#.
+
